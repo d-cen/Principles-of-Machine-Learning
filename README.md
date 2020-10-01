@@ -1,4 +1,4 @@
-# ECE-59500 (not done)
+# ECE-59500
 Machine Learning
 
 ## homework-1
