@@ -1,17 +1,17 @@
 # ECE-59500
 Machine Learning
 
-## homework-1
-Linear Algebra and Probability Review
+## assignment-1
+Linear Algebra and Probability
 
-## homework-2
+## assignment-2
 Introduction to Optimization Tools
 
-## homework-3
+## assignment-3
 Linear Discriminant Analysis and Bayesian Decision Rule
 
-## homework-4
+## assignment-4
 Logistic Regression, Perceptron and SVM
 
-## homework-5
+## assignment-5
 Learning Theory
