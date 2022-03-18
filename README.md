@@ -1,5 +1,5 @@
-# ECE-59500
-Machine Learning
+# Principles of Machine Learning
+ECE-59500-ML: Machine Learning
 
 ## assignment-1
 Linear Algebra and Probability
